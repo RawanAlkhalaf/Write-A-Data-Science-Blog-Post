@@ -26,7 +26,7 @@ The full set of files related to this course are owned by Udacity, so they are n
 
 ## File Descriptions <a name="files"></a>
 
-There are 1 notebook available here to showcase work related to the above questions.  The notebooks is exploratory in searching through the data pertaining to the questions showcased by the notebook title.  Markdown cells were used to assist in walking through the thought process for individual steps.  
+There is 1 notebook available here to showcase work related to the above questions.  The notebooks is exploratory in searching through the data pertaining to the questions showcased by the notebook title.  Markdown cells were used to assist in walking through the thought process for individual steps.  
 
 
 ## Results<a name="results"></a>

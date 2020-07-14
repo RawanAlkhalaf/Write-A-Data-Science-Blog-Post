@@ -9,7 +9,7 @@
 
 ## Installation <a name="installation"></a>
 
-no extra libraries are needed to run this code 
+no extra libraries are needed to run this code, Python 3 was used.  
 
 ## Project Motivation<a name="motivation"></a>
 
@@ -32,7 +32,7 @@ this project aims to answer the following questions about different generations 
 
 the results of this analysis is found in my Medium post [here](https://medium.com/@rawanalkha/are-you-in-the-right-generation-as-a-developer-4fedb7cf2602).
 
-## Licensing, Authors, Acknowledgements<a name="licensing"></a>
+## Acknowledgements<a name="licensing"></a>
 
 the data was taken from Stack Overflow's 2019 developer survey.
 

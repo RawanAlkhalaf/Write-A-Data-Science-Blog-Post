@@ -9,11 +9,11 @@
 
 ## Installation <a name="installation"></a>
 
-There should be no necessary libraries to run the code here beyond the Anaconda distribution of Python.  The code should run with no issues using Python versions 3.*.
+no extra libraries are needed to run this code 
 
 ## Project Motivation<a name="motivation"></a>
 
-For this project, I was interestested in using Stack Overflow data from 2019 to better understand:
+this project aims to answer the following questions about different generations of developers
 
 1. which generation has the most developers? 
 2. which generation is paid most?
@@ -21,19 +21,18 @@ For this project, I was interestested in using Stack Overflow data from 2019 to 
 4. does the eduacation level and employment vary with each generation?
 5. which generation is most satisfied with their programming career?
 
-The full set of files related to this course are owned by Udacity, so they are not publicly available here.  However, you can see pieces of the analysis here.  This README also serves as a template for students to follow in creating their own project README files.
-
 
 ## File Descriptions <a name="files"></a>
 
-There is 1 notebook available here to showcase work related to the above questions.  The notebooks is exploratory in searching through the data pertaining to the questions showcased by the notebook title.  Markdown cells were used to assist in walking through the thought process for individual steps.  
+1. a jupyter notebook file that contains the analysis code
+2. a zip file of the data set used
 
 
 ## Results<a name="results"></a>
 
-The main findings of the code can be found at the post available [here](https://medium.com/@rawanalkha/are-you-in-the-right-generation-as-a-developer-4fedb7cf2602).
+the results of this analysis is found in my Medium post [here](https://medium.com/@rawanalkha/are-you-in-the-right-generation-as-a-developer-4fedb7cf2602).
 
 ## Licensing, Authors, Acknowledgements<a name="licensing"></a>
 
-Must give credit to Stack Overflow for the data.
+the data was taken from Stack Overflow's 2019 developer survey.
 

@@ -1,12 +1,3 @@
-
-### Table of Contents
-
-1. [Installation](#installation)
-2. [Motivation](#motivation)
-3. [Descriptions](#files)
-4. [Results](#results)
-5. [Acknowledgements](#licensing)
-
 ## Installation <a name="installation"></a>
 
 no extra libraries are needed to run this code, Python 3 was used.  
